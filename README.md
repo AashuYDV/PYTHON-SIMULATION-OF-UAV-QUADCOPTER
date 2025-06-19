@@ -98,15 +98,13 @@ Control flow diagram:
 
 ## 🖼️ Visual Outputs
 <p float="left">
-  
-  ![Alt Text](XandXdot.PNG)
-  ![Alt Text](YandYdot.PNG)
-  ![Alt Text](ZandZdot.PNG)
-  
+  <img src="XandXdot.PNG" width="350"/>
+  <img src="YandYdot.PNG" width="350"/>
+  <img src="ZandZdot.PNG" width="350"/>
 </p>
 <p float="left">
-  <img src="inputs.PNG" width="400"/>
-  <img src="anngles.PNG" width="400"/>
+  <img src="inputs.PNG" width="350"/>
+  <img src="anngles.PNG" width="350"/>
   <img src="trajectory.PNG" width="400"/>
 </p>
 ---
