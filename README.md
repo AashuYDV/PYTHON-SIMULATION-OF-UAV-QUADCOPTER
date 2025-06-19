@@ -98,14 +98,14 @@ Control flow diagram:
 
 ## 🖼️ Visual Outputs
 <p float="left">
-  <img src="XandXdot.PNG" width="400"/>
-  <img src="YandYdot.PNG" width="400"/>
-  <img src="ZandZdot.PNG" width="400"/>
+  <img src="XandXdot.PNG" width="300"/>
+  <img src="YandYdot.PNG" width="300"/>
+  <img src="ZandZdot.PNG" width="300"/>
 </p>
 <p float="left">
-  <img src="trajectory.PNG" width="400"/>
-  <img src="inputs.PNG" width="400"/>
-  <img src="anngles.PNG" width="400"/>
+  <img src="trajectory.PNG" width="300"/>
+  <img src="inputs.PNG" width="300"/>
+  <img src="anngles.PNG" width="300"/>
 </p>
 ---
 ## 📚 Learning Outcomes
