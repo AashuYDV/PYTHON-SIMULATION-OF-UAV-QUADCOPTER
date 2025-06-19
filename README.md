@@ -107,7 +107,9 @@ Control flow diagram:
   <img src="anngles.PNG" width="350"/>
   <img src="trajectory.PNG" width="400"/>
 </p>
+
 ---
+
 ## 📚 Learning Outcomes
 
 - Developed an understanding of dual-loop UAV control systems combining LPV-MPC and feedback linearization.
