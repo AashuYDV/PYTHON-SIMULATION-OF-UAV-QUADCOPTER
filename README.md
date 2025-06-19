@@ -98,9 +98,11 @@ Control flow diagram:
 
 ## 🖼️ Visual Outputs
 <p float="left">
-  <img src="XandXdot.PNG" width="400"/>
-  <img src="YandYdot.PNG" width="300"/>
-  <img src="ZandZdot.PNG" width="400"/>
+  
+  ![Alt Text](XandXdot.PNG)
+  ![Alt Text](YandYdot.PNG)
+  ![Alt Text](ZandZdot.PNG)
+  
 </p>
 <p float="left">
   <img src="inputs.PNG" width="400"/>
