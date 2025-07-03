@@ -143,10 +143,7 @@ Control flow diagram:
 
 ## 👨‍💻 Authors
 
-- **Aashutosh Yadav**  
-- **Amarnath Tiwari**  
-- **Rishi Kumar Gupta**  
-- **Abhijeet Dwivedi**  
+- **Aashutosh Yadav**   
 
 *Department of Electrical Engineering*  
 Maulana Azad National Institute of Technology, Bhopal  
